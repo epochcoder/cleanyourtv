@@ -4,6 +4,8 @@ A small Android TV app that goes next to the CleanYourTV launcher and talks to t
 network. The launcher itself has no network permission and keeps it that way; everything that needs
 the network lives here instead.
 
+![Homelab on a Formovie projector: the Homepage dashboard, Search across Radarr and Sonarr, a film's detail screen, Coming up and Settings](docs/homelab.jpg)
+
 | Part | What it does |
 |---|---|
 | **Immich screensaver** (`PhotoDream`) | Recent photos from Immich in the manner of Google Photos' ambient mode: crossfades and a slow zoom, two portraits side by side, a blurred copy of the photo instead of black bars, the album, date, place and people bottom left and the clock bottom right. Albums and tags can be hidden. Needs Immich 3.2 or later. |
